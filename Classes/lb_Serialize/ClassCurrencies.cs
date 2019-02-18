@@ -2,7 +2,6 @@
 // © https://github.com/badhitman
 ////////////////////////////////////////////////
 
-
 namespace LocalBitcoinsAPI.Classes.lb_Serialize
 {
     public class ClassCurrencies

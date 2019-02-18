@@ -1,7 +1,6 @@
 ﻿////////////////////////////////////////////////
 // © https://github.com/badhitman
 ////////////////////////////////////////////////
-
 using LocalBitcoinsAPI.Classes.lb_Serialize;
 using System.Collections.Generic;
 using System.Linq;
