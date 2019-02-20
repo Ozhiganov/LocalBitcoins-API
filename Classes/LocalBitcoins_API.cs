@@ -1,5 +1,5 @@
 ﻿////////////////////////////////////////////////
-// © https://github.com/badhitman
+// © https://github.com/badhitman - Telegram @fakegov
 ////////////////////////////////////////////////
 using LocalBitcoinsAPI.Classes.lb_Serialize;
 using System.Collections.Generic;
